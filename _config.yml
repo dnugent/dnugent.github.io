@@ -33,6 +33,11 @@ linkedin_username:  danielpnugent
 
 # Build settings
 theme: minima
+
+# Minima theme customized navigation
+header_pages:
+  - resume.markdown
+
 plugins:
   - jekyll-feed
 
