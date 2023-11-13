@@ -37,6 +37,7 @@ theme: minima
 # Minima theme customized navigation
 header_pages:
   - resume.markdown
+  - public-key/index.markdown
 
 plugins:
   - jekyll-feed
