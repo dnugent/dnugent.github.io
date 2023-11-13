@@ -4,3 +4,8 @@
 
 layout: home
 ---
+Welcome to dnugent.com, my little part of the Web.
+
+This site is intended to provide a bit of information about me. I’m also considering posting content like a blog or tips about software tools I find useful. We’ll see how this goes.
+
+—Dan.
